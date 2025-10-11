@@ -13,6 +13,7 @@ brew install ghostty neovim font-meslo-lg-nerd-font lazygit tree-sitter-cli fzf 
 
 ```
 rm -rf ~/.config/nvim
+rm -rf ~/.config/ghostty
 rm -rf ~/.local/share/lazyvim-zero
 ```
 
