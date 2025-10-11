@@ -37,6 +37,10 @@ cp ~/.local/share/lazyvim-zero/themes/catppuccin-latte/ghostty.conf ~/.config/gh
 cp ~/.local/share/lazyvim-zero/themes/catppuccin-latte/neovim.lua ~/.config/nvim/lua/plugins/theme.lua
 ```
 
+## Run
+
+Open Ghostty, and type nvim <kbd>Enter</kbd>.
+
 ## Guide
 
 [Lazy Vim For Ambitious Developers](https://lazyvim-ambitious-devs.phillips.codes)
