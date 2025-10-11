@@ -9,7 +9,7 @@ brew install ghostty neovim git font-meslo-lg-nerd-font lazygit tree-sitter-cli 
 
 ## Installation
 
-### Clean
+### Clean Up
 
 ```
 rm -rf ~/.config/nvim
