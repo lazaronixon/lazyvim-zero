@@ -34,8 +34,8 @@ cp -R ~/.local/share/lazyvim-zero/config/* ~/.config/
 ### Change the theme (optional)
 
 ```
-cp ~/.local/share/lazyvim-zero/themes/catppuccin-latte/ghostty.conf ~/.config/ghostty/theme.conf
 cp ~/.local/share/lazyvim-zero/themes/catppuccin-latte/neovim.lua ~/.config/nvim/lua/plugins/theme.lua
+cp ~/.local/share/lazyvim-zero/themes/catppuccin-latte/ghostty.conf ~/.config/ghostty/theme.conf
 ```
 
 ## Run
