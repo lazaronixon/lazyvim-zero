@@ -1,10 +1,17 @@
 ## Requirements
 
 ```
-brew install neovim git font-meslo-lg-nerd-font lazygit tree-sitter-cli curl fzf ripgrep fd
+brew install ghostty neovim git font-meslo-lg-nerd-font lazygit tree-sitter-cli curl fzf ripgrep fd
 ```
 
 ## Installation
+
+### Clean
+
+```
+rm -rf ~/.config/nvim
+rm -rf ~/.local/share/lazyvim-zero
+```
 
 ### Install Lazy Vim
 
@@ -17,19 +24,14 @@ rm -rf ~/.config/nvim/.git
 
 ```
 git clone https://github.com/lazaronixon/lazyvim-zero ~/.local/share/lazyvim-zero
-cp -R ~/.local/share/lazyvim-zero/config/nvim/* ~/.config/nvim/
-```
-
-### Set font to MesloLGS Nerd Font
-
-```
-Go to Terminal -> Settings -> Font -> Change...
+cp -R ~/.local/share/lazyvim-zero/config/* ~/.config/
 ```
 
 ### Change the theme (optional)
 
 ```
 cp ~/.local/share/lazyvim-zero/themes/[NAME]/neovim.lua ~/.config/nvim/lua/plugins/theme.lua
+cp ~/.local/share/lazyvim-zero/themes/[NAME]/ghostty.conf ~/.config/ghostty/theme.conf
 ```
 
 ## Guide
