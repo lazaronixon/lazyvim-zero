@@ -1,10 +1,10 @@
 # Dynamic theme colors
-config-file = ?"theme.conf"
+config-file = ?theme.conf
 
 # Font
 font-family = "MesloLG Nerd Font"
 font-style = Regular
-font-size = 9
+font-size = 14
 
 # Window
 window-padding-x = 14
