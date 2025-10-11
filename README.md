@@ -4,7 +4,7 @@
 ## Requirements
 
 ```
-brew install ghostty neovim git font-meslo-lg-nerd-font lazygit tree-sitter-cli curl fzf ripgrep fd
+brew install ghostty neovim font-meslo-lg-nerd-font lazygit tree-sitter-cli fzf ripgrep fd
 ```
 
 ## Installation
