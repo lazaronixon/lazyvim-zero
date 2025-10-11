@@ -1,3 +1,6 @@
+
+<img width="1512" height="982" alt="screenshot" src="https://github.com/user-attachments/assets/64912cba-45e8-44f8-b704-db4c7a283d26" />
+
 ## Requirements
 
 ```
