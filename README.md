@@ -26,3 +26,12 @@ git clone https://github.com/lazaronixon/lazyvim-zero ~/lazyvim-zero
 cp -R ~/lazyvim-zero/config/nvim/* ~/.config/nvim/
 ```
 
+### Set font to MesloLGS Nerd Font
+
+Go to Terminal -> Settings -> Font -> Change...
+
+### Change the theme (optional)
+
+```
+cp ~/lazyvim-zero/themes/[NAME]/neovim.lua ~/.config/nvim/lua/plugins/theme.lua
+```
