@@ -4,7 +4,7 @@
 ## Requirements
 
 ```
-brew install ghostty neovim font-meslo-lg-nerd-font lazygit tree-sitter-cli fzf ripgrep fd
+brew install alacritty neovim font-meslo-lg-nerd-font lazygit tree-sitter-cli fzf ripgrep fd
 ```
 
 ## Installation
@@ -13,7 +13,7 @@ brew install ghostty neovim font-meslo-lg-nerd-font lazygit tree-sitter-cli fzf 
 
 ```
 rm -rf ~/.config/nvim
-rm -rf ~/.config/ghostty
+rm -rf ~/.config/alacritty
 rm -rf ~/.local/share/lazyvim-zero
 ```
 
@@ -35,12 +35,12 @@ cp -R ~/.local/share/lazyvim-zero/config/* ~/.config/
 
 ```
 cp ~/.local/share/lazyvim-zero/themes/gruvbox/neovim.lua ~/.config/nvim/lua/plugins/theme.lua
-cp ~/.local/share/lazyvim-zero/themes/gruvbox/ghostty.conf ~/.config/ghostty/theme.conf
+cp ~/.local/share/lazyvim-zero/themes/gruvbox/alacritty.toml ~/.config/alacritty/theme.toml
 ```
 
 ## Run
 
-Open Ghostty, and type nvim <kbd>Enter</kbd>.
+Open Alacritty, and type nvim <kbd>Enter</kbd>.
 
 ## Guide
 
