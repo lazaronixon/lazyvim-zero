@@ -1,5 +1,5 @@
 # Dynamic theme colors
-config-file = ?theme.conf
+config-file = ?"~/.config/ghostty/theme.conf"
 
 # Font
 font-family = "MesloLGS Nerd Font"
