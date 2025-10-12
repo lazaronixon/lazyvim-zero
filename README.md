@@ -1,5 +1,5 @@
 
-<img width="1512" height="982" alt="screenshot" src="https://github.com/user-attachments/assets/64912cba-45e8-44f8-b704-db4c7a283d26" />
+<img width="1512" height="982" alt="Screenshot 2025-10-12 at 16 28 52" src="https://github.com/user-attachments/assets/bf00a778-8812-4846-9619-a1becd8b0aac" />
 
 ## Requirements
 
