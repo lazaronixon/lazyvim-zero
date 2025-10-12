@@ -2,7 +2,7 @@
 config-file = ?"~/.config/ghostty/theme.conf"
 
 # Font
-font-family = "MesloLGS Nerd Font"
+font-family = "MesloLGL Nerd Font"
 font-style = Regular
 font-size = 14
 
