@@ -2,7 +2,7 @@
 config-file = ?theme.conf
 
 # Font
-font-family = "MesloLG Nerd Font"
+font-family = "MesloLGL Nerd Font"
 font-style = Regular
 font-size = 14
 
