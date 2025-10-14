@@ -28,7 +28,7 @@ rm -rf ~/.config/nvim/.git
 
 ```
 git clone https://github.com/lazaronixon/lazyvim-zero ~/.local/share/lazyvim-zero
-cp -R ~/.local/share/lazyvim-zero/config/* ~/.config/
+cp -r ~/.local/share/lazyvim-zero/config/* ~/.config/
 ```
 
 ### Change the theme (optional)
