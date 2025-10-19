@@ -12,6 +12,10 @@ brew install alacritty neovim font-meslo-lg-nerd-font lazygit tree-sitter-cli fz
 ### Clean Up
 
 ```
+rm -rf ~/.local/share/nvim ~/.local/state/nvim ~/.cache/nvim
+```
+
+```
 rm -rf ~/.config/nvim
 rm -rf ~/.config/alacritty
 rm -rf ~/.local/share/lazyvim-zero

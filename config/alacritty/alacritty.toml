@@ -14,3 +14,9 @@ opacity = 0.98
 padding.x = 14
 padding.y = 14
 option_as_alt = "Both"
+
+[keyboard]
+bindings = [
+  { key = "Insert", mods = "Shift", action = "Paste" },
+  { key = "Insert", mods = "Control", action = "Copy" }
+]
