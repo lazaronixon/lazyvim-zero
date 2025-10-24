@@ -31,6 +31,10 @@ git clone https://github.com/lazaronixon/lazyvim-zero ~/.local/share/lazyvim-zer
 cp -r ~/.local/share/lazyvim-zero/config/* ~/.config/
 ```
 
+```
+echo "vim.opt.relativenumber = false" >> ~/.config/nvim/lua/config/options.lua
+```
+
 ### Change the theme (optional)
 
 ```
