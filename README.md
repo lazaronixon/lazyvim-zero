@@ -1,4 +1,4 @@
-![screenshot](https://github.com/user-attachments/assets/6a0a75bb-2e75-4b01-917c-07e40fbf6456)
+![screenshot](https://github.com/user-attachments/assets/904f91ba-38fd-4863-8315-14873234d698)
 
 ## Requirements
 
