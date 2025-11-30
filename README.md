@@ -1,5 +1,4 @@
-
-<img width="1512" height="982" alt="Screenshot 2025-10-12 at 16 28 52" src="https://github.com/user-attachments/assets/bf00a778-8812-4846-9619-a1becd8b0aac" />
+![screenshot](https://github.com/user-attachments/assets/6a0a75bb-2e75-4b01-917c-07e40fbf6456)
 
 ## Requirements
 
