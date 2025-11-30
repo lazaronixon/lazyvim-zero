@@ -3,8 +3,9 @@
 ## Requirements
 
 ```
+brew install --cask ghostty
+brew install --cask font-jetbrains-mono-nerd-font
 brew install neovim lazygit tree-sitter-cli fzf ripgrep fd
-brew install --cask ghostty font-jetbrains-mono-nerd-font
 ```
 
 ## Installation
