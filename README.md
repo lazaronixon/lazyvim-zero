@@ -1,4 +1,4 @@
-![screenshot](https://github.com/user-attachments/assets/904f91ba-38fd-4863-8315-14873234d698)
+<img width="1512" height="982" alt="Screenshot" src="https://github.com/user-attachments/assets/a6f8af7a-9f97-4b44-b9d4-d160f147f710" />
 
 ## Requirements
 
