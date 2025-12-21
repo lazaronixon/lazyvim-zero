@@ -40,7 +40,7 @@ echo "vim.opt.relativenumber = false" >> ~/.config/nvim/lua/config/options.lua
 
 ```
 cp ~/.local/share/lazyvim-zero/themes/gruvbox/neovim.lua ~/.config/nvim/lua/plugins/theme.lua
-cp ~/.local/share/lazyvim-zero/themes/gruvbox/alacritty.toml ~/.config/alacritty/theme.toml
+cp ~/.local/share/lazyvim-zero/themes/gruvbox/ghostty.toml ~/.config/ghostty/theme.toml
 ```
 
 ## Run
