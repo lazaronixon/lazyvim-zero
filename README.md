@@ -34,6 +34,7 @@ cp -r ~/.local/share/lazyvim-zero/config/* ~/.config/
 
 ```
 echo "vim.opt.relativenumber = false" >> ~/.config/nvim/lua/config/options.lua
+echo "vim.g.autoformat = false" >> ~/.config/nvim/lua/config/options.lua
 ```
 
 ### Change the theme (optional)
